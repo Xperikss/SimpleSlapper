@@ -2,9 +2,9 @@
 PMMP 1.16.20/40 | API 1.13/15
 
 Команды:
-/slapper
-/rca
-/nothing
+/slapper,
+/rca,
+/nothing.
 
 Права:
 - slapper
